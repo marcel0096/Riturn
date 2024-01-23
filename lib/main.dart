@@ -22,16 +22,3 @@ void main() {
     ),
   );
 }
-
-/*
-TODOS:
-  -  Remove API keys before pushing to GitHub
-
-  -  Include ID in QR code info
-  
-  -  User name next to drawer
-  -  Make iPhone camera open when clicking on specific button -> last priority
-  -  Make scrollable if too many parcels -> least priority
-
-  -  Make app executable -> try on real iPhones
-*/
